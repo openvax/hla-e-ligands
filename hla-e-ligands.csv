@@ -5,8 +5,8 @@ VMAPRTLIL,HLA‐Cw*01/03/04/05/06/08/12/14/16; HLA-Cw*17:02; CMV UL40(I),,,,
 IMAPRTLVL,HLA-A*34:01,,,,
 VMPPRTLLL,HLA-A*80,,,,
 VMAPRTVLL,HLA-B*07/08/14/38/39/42/67/73/81,,,,
-VTAPRTLLL,HLA-B*13/18/27/35/37/40/44/47/54/56/58/59/82/83,,,,
-VTAPRTVLL,HLA-B*15/35/40/41/44/45/49/50/51/52/57/78,,,,
+VTAPRTLLL,HLA-B*13/18/27/35/37/40/44/47/54/56/58/59/82/83,-,+,,HLA-E: Presentation of a Broader Peptide Repertoire Impacts the Cellular Immune Response—Implications on HSCT Outcome
+VTAPRTVLL,HLA-B*15/35/40/41/44/45/49/50/51/52/57/78,-,+,,HLA-E: Presentation of a Broader Peptide Repertoire Impacts the Cellular Immune Response—Implications on HSCT Outcome
 VMAPRTLIL,HLA-Cw*01/03/04/05/06/12/14/16; Cw*08:01/02/03; Cw*17:02,,,,
 VMAPRTLLL,HLA-Cw*2/15,,,,
 VMAPRTLTL,HLA-Cw*08:09,,,,
